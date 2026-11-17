@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "tools": {
+    "editor": "tools-unconfigured/OpenPLC Editor.exe",
+    "runtime": "tools-unconfigured/openplc-runtime",
+    "msys": "tools-unconfigured/msys64",
+    "node": null,
+    "python": null,
+    "pythonEnvironment": ".tools/python",
+    "dshCli": ".tools/dsh/lib/bin.js",
+    "fuxaPackage": ".tools/fuxa/runtime/node_modules/@frangoteam/fuxa",
+    "oipExecutable": "${LOCALAPPDATA}/Programs/open-industry-project/Open Industry Project.exe"
+  },
+  "state": {
+    "runtimeOwnerDirectory": "outputs/workbench"
+  }
+}
